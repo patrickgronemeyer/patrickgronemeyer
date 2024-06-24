@@ -1,4 +1,14 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/your-gif-id/giphy.gif" width="100%" height="auto" />
+</div>
+
+<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge"/></a>
+  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter" alt="Twitter Badge"/></a>
+  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-green?style=flat-square" alt="Website Badge"/></a>
+</p>
 
 <!--
 **patrickgronemeyer/patrickgronemeyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
