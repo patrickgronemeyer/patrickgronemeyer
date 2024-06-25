@@ -15,12 +15,12 @@
 ### 👨‍💻 About Me:
 I am a unemployed based in St Louis area. I have a passion for being employed and love to create innovative solutions.
 
-- 🔭 I'm currently working on Capstone
+- 🔭 I'm currently working on employment
 - 🌱 I'm currently learning that nepotism is alive and well.
 - 👯 I'm looking to collaborate on employment
 - 🤔 I'm looking for help with employment
 - 💬 Ask me about employment
-- 📫 How to reach me: pgreonie@gmail.com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sec-cloud/)
 - 😄 Pronouns: all of them, I'm willing to let you call me Whatever you want if it means I get the job.
 - ⚡ Fun fact: I have a pilots license
 
