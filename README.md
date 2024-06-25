@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/your-gif-id/giphy.gif" width="100%" height="auto" />
+  <img src="[https://media.giphy.com/media/your-gif-id/giphy.gif](https://giphy.com/embed/qQh0DBncuFJwQ)" width="100%" height="auto" />
 </div>
 
 <h1 align="center">Hi there, I'm [Your Name] 👋</h1>
