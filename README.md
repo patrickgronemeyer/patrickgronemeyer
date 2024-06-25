@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://media.giphy.com/media/your-gif-id/giphy.gif](https://giphy.com/embed/qQh0DBncuFJwQ)" width="100%" height="auto" />
+ <iframe src="https://giphy.com/embed/qQh0DBncuFJwQ" width="480" height="365" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reactiongifs-qQh0DBncuFJwQ">via GIPHY</a></p>" width="100%" height="auto" />
 </div>
 
 <h1 align="center">Hi there, I'm [Your Name] 👋</h1>
