@@ -13,16 +13,16 @@
 ---
 
 ### 👨‍💻 About Me:
-I am a [Your Job Title] based in [Your Location]. I have a passion for [Your Interests] and love to create innovative solutions.
+I am a unemployed based in St Louis area. I have a passion for being employed and love to create innovative solutions.
 
-- 🔭 I'm currently working on [Your Current Project]
-- 🌱 I'm currently learning [What You're Learning]
-- 👯 I'm looking to collaborate on [Type of Projects]
-- 🤔 I'm looking for help with [What You Need Help With]
-- 💬 Ask me about [Topics You're Knowledgeable About]
-- 📫 How to reach me: [Your Email]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [A Fun Fact About You]
+- 🔭 I'm currently working on Capstone
+- 🌱 I'm currently learning that nepotism is alive and well.
+- 👯 I'm looking to collaborate on employment
+- 🤔 I'm looking for help with employment
+- 💬 Ask me about employment
+- 📫 How to reach me: pgreonie@gmail.com
+- 😄 Pronouns: all of them, I'm willing to let you call me Whatever you want if it means I get the job.
+- ⚡ Fun fact: I have a pilots license
 
 ### 🛠️ Languages and Tools:
 
