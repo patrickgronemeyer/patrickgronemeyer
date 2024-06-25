@@ -1,5 +1,5 @@
 <div align="center">
- <iframe src="https://giphy.com/embed/qQh0DBncuFJwQ" width="480" height="365" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reactiongifs-qQh0DBncuFJwQ">via GIPHY</a></p>" width="100%" height="auto" />
+<div style="width:100%;height:0;padding-bottom:76%;position:relative;"><iframe src="https://giphy.com/embed/qQh0DBncuFJwQ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/reactiongifs-qQh0DBncuFJwQ">via GIPHY</a></p>
 </div>
 
 <h1 align="center">Hi there, I'm [Your Name] 👋</h1>
